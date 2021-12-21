@@ -1,0 +1,163 @@
+[
+    {
+        "Title": "So What",
+        "Artist": "Miles Davis",
+        "Genre": "Jazz",
+        "Length": "9:25",
+        "BPM": 68
+    },
+    {
+        "Title": "Caravan",
+        "Artist": "Duke Ellington",
+        "Genre": "Jazz",
+        "Length": "2:38",
+        "BPM": 107
+    },
+    {
+        "Title": "Dizzy Atmosphere",
+        "Artist": "Dizzy Gillespie",
+        "Genre": "Jazz",
+        "Length": "2:45",
+        "BPM": 130
+    },
+    {
+        "Title": "My Queen is Harriet Tubman",
+        "Artist": "Sons of Kemet",
+        "Genre": "Jazz",
+        "Length": "5:40",
+        "BPM": 139
+    },
+    {
+        "Title": "The Court of the Crimson King",
+        "Artist": "King Crimson",
+        "Genre": "Prog-rock",
+        "Length": "9:26",
+        "BPM": 69
+    },
+    {
+        "Title": "Eclipse",
+        "Artist": "Pink Floyd",
+        "Genre": "Prog-rock",
+        "Length": "2:12",
+        "BPM": 68
+    },
+    {
+        "Title": "Space Shanty",
+        "Artist": "Khan",
+        "Genre": "Prog-rock",
+        "Length": "9:01",
+        "BPM": 129
+    },
+    {
+        "Title": "The Seventh Secret",
+        "Artist": "Fruup",
+        "Genre": "Prog-rock",
+        "Length": "1:05",
+        "BPM": 89
+    },
+    {
+        "Title": "Holy Diver",
+        "Artist": "Dio",
+        "Genre": "Metal",
+        "Length": "5:53",
+        "BPM": 92
+    },
+    {
+        "Title": "Paranoid",
+        "Artist": "Black Sabbath",
+        "Genre": "Metal",
+        "Length": "2:12",
+        "BPM": 163
+    },
+    {
+        "Title": "Infinite Resurrection",
+        "Artist": "Tomb Mold",
+        "Genre": "Metal",
+        "Length": "5:13",
+        "BPM": 140
+    },
+    {
+        "Title": "Enter Sandman",
+        "Artist": "Metallica",
+        "Genre": "Metal",
+        "Length": "5:32",
+        "BPM": 123
+    },
+    {
+        "Title": "I Wanna Be Sedated",
+        "Artist": "Ramones",
+        "Genre": "Punk",
+        "Length": "2:29",
+        "BPM": 163
+    },
+    {
+        "Title": "Good Good Things",
+        "Artist": "Decendents",
+        "Genre": "Punk",
+        "Length": "2:22",
+        "BPM": 176
+    },
+    {
+        "Title": "Banned in D.C.",
+        "Artist": "Bad Brains",
+        "Genre": "Punk",
+        "Length": "2:12",
+        "BPM": 160
+    },
+    {
+        "Title": "Break Stuff",
+        "Artist": "Limp Bizkit",
+        "Genre": "Nu metal",
+        "Length": "2:46",
+        "BPM": 109
+    },
+    {
+        "Title": "All Summer Long",
+        "Artist": "Kid Rock",
+        "Genre": "Rock",
+        "Length": "7:43",
+        "BPM": 103
+    },
+    {
+        "Title": "End Of The Road",
+        "Artist": "Boyz II Men",
+        "Genre": "Pop",
+        "Length": "5:51",
+        "BPM": 75
+    },
+    {
+        "Title": "I Will Always Love You",
+        "Artist": "Whitney Houston",
+        "Genre": "Pop",
+        "Length": "4:30",
+        "BPM": 68
+    },
+    {
+        "Title": "Smells Like Teen Spirit",
+        "Artist": "Nirvana",
+        "Genre": "Grunge",
+        "Length": "4:59",
+        "BPM": 117
+    },
+    {
+        "Title": "XOXO",
+        "Artist": "JEON SOMI",
+        "Genre": "Kpop",
+        "Length": "3:27",
+        "BPM": 145
+    },
+    {
+        "Title": "Rock with you",
+        "Artist": "SEVENTEEN",
+        "Genre": "Kpop",
+        "Length": "3:00",
+        "BPM": 164
+    },
+    {
+        "Title": "三原色",
+        "Artist": "YAOSOBI",
+        "Genre": "Jpop",
+        "Length": "3:46",
+        "BPM": 126
+    }
+]
